@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Icons/TextEditor">
+        <file>Icons/TextEditor/align-center.svg</file>
+        <file>Icons/TextEditor/align-justify.svg</file>
+        <file>Icons/TextEditor/align-left.svg</file>
+        <file>Icons/TextEditor/align-right.svg</file>
+        <file>Icons/TextEditor/bold.svg</file>
+        <file>Icons/TextEditor/bulletList.svg</file>
+        <file>Icons/TextEditor/clearFormat.svg</file>
+        <file>Icons/TextEditor/decreaseIndent.svg</file>
+        <file>Icons/TextEditor/font-icon.svg</file>
+        <file>Icons/TextEditor/font-size-decrease.svg</file>
+        <file>Icons/TextEditor/font-size-increase.svg</file>
+        <file>Icons/TextEditor/increaseIndent.svg</file>
+        <file>Icons/TextEditor/insertImage.svg</file>
+        <file>Icons/TextEditor/italic.svg</file>
+        <file>Icons/TextEditor/letters.svg</file>
+        <file>Icons/TextEditor/redo.svg</file>
+        <file>Icons/TextEditor/strikethrough.svg</file>
+        <file>Icons/TextEditor/subscript.svg</file>
+        <file>Icons/TextEditor/superscript.svg</file>
+        <file>Icons/TextEditor/table.svg</file>
+        <file>Icons/TextEditor/textOutline.svg</file>
+        <file>Icons/TextEditor/toLowercase.svg</file>
+        <file>Icons/TextEditor/toUppercase.svg</file>
+        <file>Icons/TextEditor/underline.svg</file>
+        <file>Icons/TextEditor/undo.svg</file>
+        <file>Icons/TextEditor/overline.svg</file>
+        <file>Icons/TextEditor/numberedList.svg</file>
+    </qresource>
+</RCC>
